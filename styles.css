@@ -14,21 +14,22 @@ body {
 
 .content {
     margin-left: 20px;
-    padding: 6% 6% 6% 6%;
+    padding: 4% 6% 6% 6%;
     max-width: 40%;
 }
 
 h1 {
     font-weight: 700;
     font-size: 36px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     
 }
 
 .text {
     width: 80%;
     font-size: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    margin-top: 20px;
     line-height: 1.6;
     font-weight: 500;
 }
@@ -37,7 +38,7 @@ h1 {
     color :#282828;
     font-weight: 800;
     font-size: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     margin-top: 30px;
 }
 
@@ -45,6 +46,7 @@ h1 {
     width: 90%;
     display: flex;
     margin-bottom: 10px;
+    margin-top: 20px;
 }
 
 .signup-form input {
@@ -85,7 +87,9 @@ h1 {
 }
 
 .image img {
+    margin-top: 3%;
     margin-right: 20px;
+    margin-bottom: 3%;
     max-width: 100%;
     height: auto;
 }
@@ -98,6 +102,7 @@ footer {
 }
 
 .footer-left ul {
+    line-height: 20px;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -122,11 +127,11 @@ footer {
 }
 
 .footer-right p {
-    margin: 5px 0;
+    margin: 10px 0;
 }
 
 .socials {
-    margin: 10px 0;
+    margin: 5px 0;
 }
 
 .socials a {
@@ -139,6 +144,6 @@ footer {
     height: 24px;
 }
 .contact{
-    padding: 4% 12% 3% 12%;
+    padding: 3% 12% 3% 12%;
     
 }
