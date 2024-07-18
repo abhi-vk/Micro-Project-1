@@ -68,7 +68,7 @@ h1 {
     color: #fff;
     border: 1px solid #000;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 8px;
     transition: background-color 0.3s;
 }
 
